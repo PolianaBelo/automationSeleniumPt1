@@ -1,2 +1,2 @@
 # automationSeleniumPt1
-Practicing
+Practicing automation
